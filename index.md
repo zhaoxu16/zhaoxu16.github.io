@@ -12,8 +12,8 @@
     <td width="25%">
      <img src="/证件照.jpg" width="100%">  
     </td>
-  </tr>
-</table>
+    </tr>
+    </table>
 
 ### 证书技能
 法语专业八级
