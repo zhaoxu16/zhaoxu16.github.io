@@ -10,7 +10,7 @@
 
     </td>
     <td width="25%">
-     <img src="/证件照.jpg" width="100%">  
+    <img src="/证件照.jpg" width="100%">  
     </td>
     </tr>
     </table>
