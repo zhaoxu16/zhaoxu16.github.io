@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>徐</h1>
+      <h1>王照姁</h1>
       <p><b>本科</b></p >
       <p><b>广州大学</b></p >
       <p><b>硕士</b></p >
@@ -12,7 +12,7 @@
 邮编：221400</b></p >
     </td>
     <td width="25%">
-      < img src="/2_15136.jpg" width="100%">      
+     <img src="/证件照.jpg" width="100%">  
     </td>
   </tr>
 </table>
